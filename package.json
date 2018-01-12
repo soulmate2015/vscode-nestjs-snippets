@@ -22,7 +22,7 @@
     "contributes": {
         "snippets": [
             {
-                "language": "typescript",
+                "language": "javascript",
                 "path": "./snippets/snippets.json"
             }
         ]
